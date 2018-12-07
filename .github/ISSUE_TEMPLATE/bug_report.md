@@ -1,3 +1,12 @@
+---
+name: Bug report
+about: Create a report to help us improve
+title: ''
+labels: ''
+assignees: ''
+
+---
+
 `Bug`!
 
 (Superspaced code block means blank)
@@ -36,4 +45,5 @@ Fix hints:
           1. ` `
           
         characters:
+
           1. ` `
